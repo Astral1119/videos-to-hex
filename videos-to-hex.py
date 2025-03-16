@@ -7,7 +7,7 @@ Arguments:
     -d: dimensions of each frame
     -f: frame rate
 
-Due to the nature of Google Sheets color divs, it only works within a reduced color space (8 bits per channel).
+Due to the nature of Google Sheets color divs, it only works within a reduced color space (3 bits per channel).
 """
 
 import cv2
